@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP5-SPINNER</string>
+    <string name="days_prompt">Veuillez choisir un jour de la semaine </string>
+    <string-array name="day_array">
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
+    </string-array>
+</resources>
